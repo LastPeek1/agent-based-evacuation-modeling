@@ -8,7 +8,7 @@
 
 **Key Feature:** Agents have no prior knowledge of the building layout and learn to find exits through a reward system, adapting to random obstacles and environmental changes.
 
-![Simulation Example](https://github.com/LastPeek1/agent-based-evacuation-simulation/blob/bd715a5c2b317690ba1cea88290c318e56fcacc0/40%20-%20frame.jpg)
+![Simulation Example]([https://github.com/LastPeek1/agent-based-evacuation-simulation/blob/bd715a5c2b317690ba1cea88290c318e56fcacc0/40%20-%20frame.jpg](https://github.com/LastPeek1/agent-based-evacuation-modeling/blob/9f562f1eefdb7568e719a7fb405df590e355858e/40%20-%20frame%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg))
 
 ## 🧠 Core Concepts
 
@@ -29,7 +29,7 @@
     *   **Low Barriers:** Key feature! Impede movement but **do not block vision** (rays pass over them)
 *   **No Global Information:** Agents don't know the building map. Decisions are made ONLY based on Raycast sensor data (observation vector).
 
-![Raycast](https://github.com/LastPeek1/agent-based-evacuation-simulation/blob/8bfd65b9a04f0eff96a798d0d586b2e5434f94f5/image.png)
+![Raycast]([https://github.com/LastPeek1/agent-based-evacuation-simulation/blob/8bfd65b9a04f0eff96a798d0d586b2e5434f94f5/image.png](https://github.com/LastPeek1/agent-based-evacuation-modeling/blob/9f562f1eefdb7568e719a7fb405df590e355858e/image.png))
 
 ## ⚙️ Technology Stack and Implementation
 
