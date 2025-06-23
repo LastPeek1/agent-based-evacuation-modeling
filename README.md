@@ -60,9 +60,10 @@
 
 ### Prerequisites
 **Read the official documentation carefully before starting:**
-[📚 Official ML-Agents Installation Guide](https://github.com/Unity-Technologies/ml-agents/blob/develop/docs/Installation.md)
+- [📚 Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents/tree/develop)
+- [📚 Official ML-Agents Installation Guide](https://github.com/Unity-Technologies/ml-agents/blob/develop/docs/Installation.md)
 
-**Software versions :**
+**My software versions:**
 - Unity 2023.2.0f1
 - ML-Agent 1.1.0
 - Python 3.10.12
