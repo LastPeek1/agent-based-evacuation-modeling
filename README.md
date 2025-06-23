@@ -4,6 +4,8 @@
 [![Python Version](https://img.shields.io/badge/Python-3.10.12-green.svg)](https://python.org)
 [![ML-Agents](https://img.shields.io/badge/ML--Agents-1.1.0-lightgrey.svg)](https://unity-technologies.github.io/ml-agents/) 
 
+**Tags:** `Reinforcement Learning` `Multi-Agent Systems` `Crowd Simulation` `Unity3D` `ML-Agents` `Evacuation Modeling` `AI Research` `Behavior Simulation`
+
 **An agent-based model for human evacuation from buildings using Reinforcement Learning (RL).** Agents make decisions based solely on local observations through RayPerceptionSensor3D components, simulating limited human vision in dynamic environments.
 
 **Key Innovation:** Agents have no prior knowledge of building layouts and learn to find exits through an adaptive reward system, handling random obstacles and environmental changes in real-time.
