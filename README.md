@@ -8,7 +8,7 @@
 
 **Key Feature:** Agents have no prior knowledge of the building layout and learn to find exits through a reward system, adapting to random obstacles and environmental changes.
 
-![Simulation Example]([https://github.com/LastPeek1/agent-based-evacuation-simulation/blob/bd715a5c2b317690ba1cea88290c318e56fcacc0/40%20-%20frame.jpg](https://github.com/LastPeek1/agent-based-evacuation-modeling/blob/9f562f1eefdb7568e719a7fb405df590e355858e/40%20-%20frame%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg))
+![[Simulation Example](https://github.com/LastPeek1/agent-based-evacuation-simulation/blob/bd715a5c2b317690ba1cea88290c318e56fcacc0/40%20-%20frame.jpg](https://github.com/LastPeek1/agent-based-evacuation-modeling/blob/9f562f1eefdb7568e719a7fb405df590e355858e/40%20-%20frame%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg)](https://github.com/LastPeek1/agent-based-evacuation-modeling/blob/9f562f1eefdb7568e719a7fb405df590e355858e/40%20-%20frame%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg)
 
 ## 🧠 Core Concepts
 
