@@ -1,0 +1,47 @@
+{
+    "Agent_Logic": {
+        "checkpoints": [
+            {
+                "steps": 299890,
+                "file_path": "results\\Agent_Logic_3\\Agent_Logic\\Agent_Logic-299890.onnx",
+                "reward": 0.8928541951467314,
+                "creation_time": 1748020507.281571,
+                "auxillary_file_paths": [
+                    "results\\Agent_Logic_3\\Agent_Logic\\Agent_Logic-299890.pt"
+                ]
+            },
+            {
+                "steps": 399943,
+                "file_path": "results\\Agent_Logic_3\\Agent_Logic\\Agent_Logic-399943.onnx",
+                "reward": 0.8938037148372951,
+                "creation_time": 1748020816.7065594,
+                "auxillary_file_paths": [
+                    "results\\Agent_Logic_3\\Agent_Logic\\Agent_Logic-399943.pt"
+                ]
+            },
+            {
+                "steps": 402849,
+                "file_path": "results\\Agent_Logic_3\\Agent_Logic\\Agent_Logic-402849.onnx",
+                "reward": 0.8930146318266555,
+                "creation_time": 1748020839.367639,
+                "auxillary_file_paths": [
+                    "results\\Agent_Logic_3\\Agent_Logic\\Agent_Logic-402849.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 402849,
+            "file_path": "results\\Agent_Logic_3\\Agent_Logic.onnx",
+            "reward": 0.8930146318266555,
+            "creation_time": 1748020839.367639,
+            "auxillary_file_paths": [
+                "results\\Agent_Logic_3\\Agent_Logic\\Agent_Logic-402849.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
