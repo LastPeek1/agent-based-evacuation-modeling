@@ -55,3 +55,15 @@
     *   Episode termination (all agents succeeded or `maxEnvironmentSteps` timeout)
 *   **`AgentSettings.cs`:** Parameter storage (ScriptableObject). Contains speed, force, penalty, reward, ray length, episode time settings. Enables easy configuration and data protection.
 *   **`Door.cs`:** Manages door state (open/closed), handles agent interaction for reward system.
+
+## 🚀 Getting Started
+
+### Prerequisites
+**Read the official documentation carefully before starting:**
+[📚 Official ML-Agents Installation Guide](https://github.com/Unity-Technologies/ml-agents/blob/develop/docs/Installation.md)
+
+**Software versions :**
+- Unity 2023.2.0f1
+- ML-Agent 1.1.0
+- Python 3.10.12
+- Torch 2.2.1
